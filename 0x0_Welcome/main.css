@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(19, 64, 103);
+    text-align: center;
+}
+
+.main {
+    height: 500px;
+    width: 700px;
+    background-color: rgba(246, 250, 253, 0.888);
+    margin: auto;
+    border-radius: 5%;
+}
+
+#question {
+    position: relative;
+    top: 25%;
+}
+
+#answer {
+    position: relative;
+    top: 25%;
+    font-size: 50px;
+}
